@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**JulianaRoSilva/JulianaRoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Juliana!
 
-Here are some ideas to get you started:
+🎓 Formada em Gestão da Tecnologia da Informação  
+💻 Analista de Suporte Técnico  
+☕ Estudando Java e SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias 
+![My Skills](https://skillicons.dev/icons?i=js) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+
+### Contato
+- LinkedIn: [linkedin.com/in/julianarsilva/](https://www.linkedin.com/in/julianarsilva/)
+- Email: silva.juliana1215gmail.com
