@@ -2,7 +2,7 @@
 
 Me chamo Juliana!
 
-🎓 Formada em Gestão da Tecnologia da Informação  
+🎓 Formada em Gestão da Tecnologia da Informação                                                                
 💻 Analista de Suporte Técnico  
 ☕ Estudando Java e SQL  
 
@@ -13,3 +13,8 @@ Me chamo Juliana!
 ### Contato
 - LinkedIn: [linkedin.com/in/julianarsilva/](https://www.linkedin.com/in/julianarsilva/)
 - Email: silva.juliana1215@gmail.com
+
+# Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianaRoSilva&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaRoSilva&layout=compact&theme=tokyonight)
