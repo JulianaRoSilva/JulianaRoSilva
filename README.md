@@ -7,6 +7,7 @@ Me chamo Juliana!
 ☕ Estudando Java e SQL  
 
 
+## Estatísticas
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulianaRoSilva&layout=compact&theme=tokyonight)
 
 ### Contato
