@@ -12,4 +12,4 @@ Me chamo Juliana!
 
 ### Contato
 - LinkedIn: [linkedin.com/in/julianarsilva/](https://www.linkedin.com/in/julianarsilva/)
-- Email: silva.juliana1215gmail.com
+- Email: silva.juliana1215@gmail.com
