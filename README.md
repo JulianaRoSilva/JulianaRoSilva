@@ -1,6 +1,4 @@
-# Olá 👋
-
-Me chamo Juliana!
+# Olá, me chamo Juliana! 👋
 
 🎓 Formada em Gestão da Tecnologia da Informação                                                                
 💻 Estudante de Análise e Desenvolvimento de sistemas                                                                
