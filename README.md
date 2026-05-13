@@ -12,3 +12,5 @@ Me chamo Juliana!
 
 ### Habilidades
 ![My Skills](https://skillicons.dev/icons?i=java,js) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulianaRoSilva&layout=compact&theme=tokyonight)
