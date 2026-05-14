@@ -15,7 +15,7 @@
 ---
 
 🎓 Formada em Gestão da Tecnologia da Informação    
-📊 Experiência com SQL Server, suporte e análise de dados  
+📊 Experiência com SQL Server, JavaScript e Java    
 🏎️ Pilota kart nas horas vagas  
 
 ---
@@ -28,7 +28,7 @@
 
 ### Contato
 
-<a href="https://www.linkedin.com/in/julianarsilva/">
+<a href="https://www.linkedin.com/in/juliana-rodrigues-da-silva-1a954522a">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
