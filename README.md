@@ -14,8 +14,9 @@
 
 ---
 
-  ### Estudante de Análise e desenvolvimento de sistemas. Atualmente sou Analiseta de suporte técnico e tenho grande pretenção de me tornar uma ótima programadora no futuro! 
-  ### Sou apaixonada por tecnologia, códigos e, nas horas vagas, sou pilota de kart.
+  ### Estudante de Análise e desenvolvimento de sistemas. 
+  ## Analista de Suporte técnico nivel III
+  ### Apaixonada por tecnologia, códigos e, nas horas vagas, sou pilota de kart.
   ### Este perfil é destinado para armazenar meus estudos, códigos e aprendizado na minha trajetória como estudante de TDS no Senac São Leopoldo
 
 ---
