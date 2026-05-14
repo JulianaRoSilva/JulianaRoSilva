@@ -14,10 +14,10 @@
 
 ---
 
-  ### Estudante de Análise e desenvolvimento de sistemas. 
-  ## Analista de Suporte técnico nivel III
-  ### Apaixonada por tecnologia, códigos e, nas horas vagas, sou pilota de kart.
-  ### Este perfil é destinado para armazenar meus estudos, códigos e aprendizado na minha trajetória como estudante de TDS no Senac São Leopoldo
+  ### 🖥️ Estudante de Análise e desenvolvimento de sistemas. 
+  ### 🌐 Formada em Gestão da Tecnologia da Informação
+  ### 🎮 Apaixonada por tecnologia
+  ### 🏎️ Pilota de Kart 
 
 ---
 
