@@ -18,13 +18,13 @@
 📊 Experiência com SQL Server, JavaScript e Java    
 🏎️ Pilota kart nas horas vagas  
 
----
+
 
 ### Tecnologias
 
 <img src="https://skillicons.dev/icons?i=java,js,vscode" />
 
----
+
 
 ### Contato
 
@@ -38,7 +38,7 @@
 
 
 
----
+
 
 <div align="center">
 
