@@ -14,17 +14,17 @@
 
 ---
 
-🎓 Formada em Gestão da Tecnologia da Informação    
-📊 Experiência com SQL Server, JavaScript e Java    
-🏎️ Pilota kart nas horas vagas  
+  ### Estudante de Análise e desenvolvimento de sistemas. Atualmente sou Analiseta de suporte técnico e tenho grande pretenção de me tornar uma ótima programadora no futuro! 
+  ### Sou apaixonada por tecnologia, códigos e, nas horas vagas, sou pilota de kart.
+  ### Este perfil é destinado para armazenar meus estudos, códigos e aprendizado na minha trajetória como estudante de TDS no Senac São Leopoldo
 
-
+---
 
 ### Tecnologias
 
 <img src="https://skillicons.dev/icons?i=java,js,vscode" />
 
-
+---
 
 ### Contato
 
