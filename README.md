@@ -17,7 +17,7 @@
   ### 🖥️ Estudante de Análise e desenvolvimento de sistemas. 
   ### 🌐 Formada em Gestão da Tecnologia da Informação
   ### 🎮 Apaixonada por tecnologia
-  ### 🏎️ Pilota de Kart 
+  ### 🏎️ Piloto de Kart 
 
 ---
 
