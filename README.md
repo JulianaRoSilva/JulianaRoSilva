@@ -23,7 +23,7 @@
 
 ### Tecnologias
 
-<img src="https://skillicons.dev/icons?i=java,js,vscode" />
+<img src="https://skillicons.dev/icons?i=java,js,sqlserver,postgres,vscode" />
 
 ---
 
