@@ -7,6 +7,7 @@
 
 ---
 
+<div align="left">
 ## Sobre
 
 Atuo na área de Help Desk, trabalhando principalmente bancos de dados, experiência e suporte do usuário.
@@ -59,3 +60,4 @@ Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvo
 - Banco de Dados
 
 ---
+</div>
