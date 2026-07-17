@@ -45,7 +45,7 @@ Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="Postgre SQL"/>
 </p>
 
---
+---
 
 ## Áreas de Interesse
 
