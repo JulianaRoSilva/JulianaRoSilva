@@ -2,10 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:fde047&text=Juliana%20Rodrigues&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=55"/>
 
-</div>
-<div align="center">
-Analista de suporte e Estudante de Desenvolvimento de software 
-</div>
+# Analista de suporte e Estudante de Desenvolvimento de software 
+
 
 ---
 
@@ -41,6 +39,7 @@ Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvo
 
 </td>
 <td>
+</table>
 
 ---
 
