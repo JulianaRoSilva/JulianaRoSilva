@@ -4,45 +4,65 @@
 
 </div>
 
----
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=facc15&size=28&center=true&vCenter=true&width=1000&lines=Olá,+bem-vindo+ao+meu+perfil!;Estudante+de+TDS;Apaixonada+por+tecnologia)](https://git.io/typing-svg)
+# Juliana Rodrigues
+
+Analista de suporte e Estudante de Desenvolvimento de software 
 
 </div>
 
 ---
 
-  ### 🖥️ Estudante de Análise e desenvolvimento de sistemas. 
-  ### 🌐 Formada em Gestão da Tecnologia da Informação
-  ### 🎮 Apaixonada por tecnologia
-  ### 🏎️ Piloto de Kart 
+## Sobre
+
+Atuo na área de Help Desk, trabalhando principalmente bancos de dados, experiência e suporte do usuário.
+
+Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvolvidas ao longo da minha atuação profissional.
 
 ---
 
-### Tecnologias
+## Tecnologias
 
-<img src="https://skillicons.dev/icons?i=java,js,sqlserver,postgres,vscode" />
+<table>
+<tr>
+<td>
+
+### Desenvolvimento
+
+- JavaScript
+- TypeScript
+- Java
+
+</td>
+<td>
+
+### Banco de Dados
+
+- SQL
+- PostGree
+- Modelagem de Dados
+- Engenharia de Dados
+
+</td>
+<td>
 
 ---
 
-### Contato
+## Ferramentas
 
-<a href="https://www.linkedin.com/in/juliana-rodrigues-da-silva-1a954522a">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,sqlserver,postgres,vscode" />
+</p>
 
-<a href="mailto:silva.juliana1215@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+---
 
+## Áreas de Interesse
 
+- Engenharia de Software
+- Arquitetura de Sistemas
+- Desenvolvimento Web
+- Desenvolvimento Mobile
+- Banco de Dados
 
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:fde047"/>
-
-</div>
+---
