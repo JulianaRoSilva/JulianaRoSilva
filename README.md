@@ -43,6 +43,11 @@ Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvo
   <img src="https://skillicons.dev/icons?i=java,js,sqlserver,postgres,vscode" />
 </p>
 
+## Banco de dados
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"  width="50" height="50" alt="Microsoft SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="Postgre SQL"/>
+</div>
 ---
 
 ## Áreas de Interesse
