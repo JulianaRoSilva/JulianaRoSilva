@@ -4,7 +4,7 @@
 
 ---
 <div align="left">
-Atuo na área de Help Desk, trabalhando principalmente bancos de dados, experiência e suporte do usuário.
+Atuo na área de Help Desk, trabalhando principalmente com bancos de dados, experiência e suporte do usuário. Sou formada no curso Gestão da Tecnologia da informação pela univerdade Unisinos e sou estudante de Desenvolvimento de Sistemas no SENAC São Leopoldo.
 Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvolvidas ao longo da minha atuação profissional.
 
 ---
