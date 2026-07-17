@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:fde047&text=Juliana%20Rodrigues&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=55"/>
 
-# Analista de suporte e Estudante de Desenvolvimento de software 
+## Analista de suporte e Estudante de Desenvolvimento de software 
 
 
 ---
@@ -10,7 +10,6 @@
 ## Sobre
 
 Atuo na área de Help Desk, trabalhando principalmente bancos de dados, experiência e suporte do usuário.
-
 Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvolvidas ao longo da minha atuação profissional.
 
 ---
@@ -38,7 +37,7 @@ Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvo
 - Engenharia de Dados
 
 </td>
-<td>
+</tr>
 </table>
 
 ---
