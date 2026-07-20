@@ -40,7 +40,7 @@ Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvo
 ## Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,vscode" />  
+  <img src="https://skillicons.dev/icons?i=java,js,typescript,vscode" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"  width="50" height="50" alt="Microsoft SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="Postgre SQL"/>
 </p>
