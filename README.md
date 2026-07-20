@@ -9,6 +9,8 @@ Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvo
 
 ---
 
+## Tecnologias
+
 <table>
   <tr>
     <th width="50%">Desenvolvimento</th>
@@ -31,34 +33,6 @@ Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvo
 
 </td>
   </tr>
-</table>
-
-
-
-## Tecnologias
-
-<table>
-<tr>
-<td>
-
-### Desenvolvimento
-
-- JavaScript
-- TypeScript
-- Java
-
-</td>
-<td>
-
-### Banco de Dados
-
-- SQL
-- PostGree
-- Modelagem de Dados
-- Engenharia de Dados
-
-</td>
-</tr>
 </table>
 
 ---
