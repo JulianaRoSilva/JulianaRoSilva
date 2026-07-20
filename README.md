@@ -12,7 +12,7 @@ Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvo
 <table>
   <tr>
     <th width="50%">Desenvolvimento</th>
-    <th width="110%">Banco de Dados</th>
+    <th width="100%">Banco de Dados</th>
   </tr>
   <tr>
     <td valign="top">
