@@ -11,8 +11,8 @@ Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvo
 
 <table>
   <tr>
-    <th width="50%">Desenvolvimento</th>
-    <th width="50%">Banco de Dados</th>
+    <th width="60%">Desenvolvimento</th>
+    <th width="60%">Banco de Dados</th>
   </tr>
   <tr>
     <td valign="top">
@@ -20,7 +20,6 @@ Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvo
 - JavaScript
 - TypeScript
 - Java
-- C#
 
 </td>
     <td valign="top">
