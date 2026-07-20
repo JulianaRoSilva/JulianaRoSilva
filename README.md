@@ -9,6 +9,33 @@ Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvo
 
 ---
 
+<table>
+  <tr>
+    <th width="50%">Desenvolvimento</th>
+    <th width="50%">Banco de Dados</th>
+  </tr>
+  <tr>
+    <td valign="top">
+
+- JavaScript
+- TypeScript
+- Java
+- C#
+
+</td>
+    <td valign="top">
+
+- SQL Server
+- PostgreSQL
+- Modelagem de Dados
+- Engenharia de Dados
+
+</td>
+  </tr>
+</table>
+
+
+
 ## Tecnologias
 
 <table>
