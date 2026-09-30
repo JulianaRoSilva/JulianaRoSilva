@@ -57,11 +57,6 @@ Este perfil reúne projetos acadêmicos, estudos técnicos e iniciativas desenvo
 
 ---
 
-## Linguagens mais utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaRoSilva&layout=compact)
----
-
 ## Contato
 
 <div>
